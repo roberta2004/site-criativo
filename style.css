@@ -2,3 +2,6 @@ body{
     color: brown;
     background-color: aliceblue;
 }
+header{
+    border: solid 2px cornflowerblue
+}
