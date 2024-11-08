@@ -7,4 +7,18 @@ header{
     padding: 20px; 
     font: size 76px;
     color: #054305;
+
 }
+section{
+ background: rgb(238, 5, 91);
+padding-bottom: 80px;
+padding-top: 80px;
+display;flex;
+justify-content: center;
+}
+div{
+margin-right: 20px;
+}
+.chamada-texto{ 
+margin-right: 5%;
+  }
